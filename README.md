@@ -1,6 +1,8 @@
 # Assignment_2
 Data_Cleaning and_Transformation
 
+This assignment focuses on data cleaning and transformation. It involves identifying and handling missing values, correcting inconsistent data and spelling errors, removing duplicate records, splitting and merging columns, formatting prices and dates, and applying conditional formatting. The goal is to transform the raw dataset into a clean, consistent, accurate, and well-formatted dataset suitable for analysis.
+
 Questions:
 
 Perform the following in the dataset from the 'Dataset' sheet.										
